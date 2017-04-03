@@ -1,0 +1,1 @@
+/usr/bin/c++.exe   -std=gnu++11 -g  -Wl,--enable-auto-import CMakeFiles/run_TemplateProject.dir/main.cpp.o  -o run_TemplateProject.exe -Wl,--out-implib,librun_TemplateProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 src/libTemplateProject_src.a 

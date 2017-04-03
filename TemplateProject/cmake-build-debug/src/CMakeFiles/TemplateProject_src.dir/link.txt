@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libTemplateProject_src.a  CMakeFiles/TemplateProject_src.dir/TemplateProject.cpp.o
+/usr/bin/ranlib.exe libTemplateProject_src.a
